@@ -1,0 +1,184 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Fixed Departures</title>
+<!-- custom-theme -->
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> 
+addEventListener("load", function() { 
+	setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ 
+			window.scrollTo(0,1);
+		} </script>
+<!-- //custom-theme -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!-- Owl-carousel-CSS --><link href="css/owl.carousel.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome-icons -->
+<link href="css/font-awesome.css" rel="stylesheet"/> 
+<!-- //font-awesome-icons -->
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,900" rel="stylesheet"/>
+ <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script> 
+ 
+ <style>
+ .flexiselDemo1 {
+ display:block !important;
+ }
+ </style>
+</head>
+	
+<body>
+<!-- banner -->
+<div id="header">
+<div class="main_section_agile" id="navi">
+			<div class="agileits_w3layouts_banner_nav">
+				<nav class="navbar navbar-default">
+					<div class="navbar-header navbar-left">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<img src="images/mjlogo.png" style="display: inline !important;margin-top: -20%;margin-left: -50%;"></img>
+					</div>
+					<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+						<nav class="link-effect-2" id="link-effect-2">
+							<ul class="nav navbar-nav">
+								<li><a href="/" class="effect-3">Home</a></li>
+								<li><a href="/" class="effect-3">Fixed Departures</a></li>
+								<li><a href="/" class="effect-3">Customized</a></li>
+								<li><a href="/" class="effect-3">Blog</a></li>
+								<li><a href="/" class="effect-3">About</a></li>
+								<li class="active"><a href="/mail" class="effect-3">Contact Us</a></li>
+							</ul>
+						</nav>
+	
+					</div>
+				</nav>	
+			<div class="clearfix"> </div> 
+		</div>
+	</div>
+	</div>
+<!-- /contact -->	
+	<div class="events">
+	<ul id="flexiselDemo1">
+				<div class="w3layouts_event_grid">
+					<div class="w3_agile_event_grid1">
+						<img src="images/1.jpg" alt=" " class="img-responsive" />
+						<div class="w3_agile_event_grid1_pos">
+							<p>23 March 2017</p>
+						</div>
+						<div class="agile_event_grid1_pos">
+							<ul>
+								<li><a href="#"><i class="fa fa-inr" aria-hidden="true"></i>18</a></li>
+								<li><a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>21</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="agileits_w3layouts_event_grid1">
+						<h5><a href="#" data-toggle="modal" data-target="#myModal">Learn Basics</a></h5>
+						<p>viverra ipsum ac, convallis mauris. Sed quis congue turpis, cursus rhoncus nibh.</p>
+					</div>
+				</div>
+				
+				<div class="w3layouts_event_grid">
+					<div class="w3_agile_event_grid1">
+						<img src="images/1.jpg" alt=" " class="img-responsive" />
+						<div class="w3_agile_event_grid1_pos">
+							<p>23 March 2017</p>
+						</div>
+						<div class="agile_event_grid1_pos">
+							<ul>
+								<li><a href="#"><i class="fa fa-inr" aria-hidden="true"></i>18</a></li>
+								<li><a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>21</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="agileits_w3layouts_event_grid1">
+						<h5><a href="#" data-toggle="modal" data-target="#myModal">Learn Basics</a></h5>
+						<p>viverra ipsum ac, convallis mauris. Sed quis congue turpis, cursus rhoncus nibh.</p>
+					</div>
+				</div>
+				
+				<div class="w3layouts_event_grid">
+					<div class="w3_agile_event_grid1">
+						<img src="images/1.jpg" alt=" " class="img-responsive" />
+						<div class="w3_agile_event_grid1_pos">
+							<p>23 March 2017</p>
+						</div>
+						<div class="agile_event_grid1_pos">
+							<ul>
+								<li><a href="#"><i class="fa fa-inr" aria-hidden="true"></i>18</a></li>
+								<li><a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>21</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="agileits_w3layouts_event_grid1">
+						<h5><a href="#" data-toggle="modal" data-target="#myModal">Learn Basics</a></h5>
+						<p>viverra ipsum ac, convallis mauris. Sed quis congue turpis, cursus rhoncus nibh.</p>
+					</div>
+				</div>
+				</ul>
+	</div>
+	
+	<div class="footer">
+	</div>
+<!-- //footer -->
+<!-- js -->
+
+<!-- //js -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+<!-- for bootstrap working -->
+	<script src="js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			});
+	</script>
+	<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+	<script type="text/javascript">
+		$(window).load(function() {
+			$("#flexiselDemo1").flexisel({
+				visibleItems: 4,
+				animationSpeed: 1000,
+				autoPlay: true,
+				autoPlaySpeed: 3000,    		
+				pauseOnHover: true,
+				enableResponsiveBreakpoints: true,
+				responsiveBreakpoints: { 
+					portrait: { 
+						changePoint:480,
+						visibleItems: 1
+					}, 
+					landscape: { 
+						changePoint:667,
+						visibleItems:2
+					},
+					tablet: { 
+						changePoint:800,
+						visibleItems: 3
+					}
+				}
+			});
+			
+		});
+	</script>
+</body>
+</html>

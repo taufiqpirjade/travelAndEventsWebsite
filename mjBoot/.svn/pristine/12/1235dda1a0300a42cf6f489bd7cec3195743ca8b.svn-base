@@ -1,0 +1,6 @@
+#embedded port configuration
+server.port=7001
+spring.datasource.driverClassName=com.mysql.jdbc.Driver
+spring.datasource.url=jdbc:mysql://45.56.122.134:3306/mappingjourneys
+spring.datasource.username=taufik2215
+spring.datasource.password=accesstestdb

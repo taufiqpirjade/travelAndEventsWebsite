@@ -1,0 +1,109 @@
+
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>MappingJourneys</title>
+<!-- custom-theme -->
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script>		
+	function hideURLbar(){ window.scrollTo(0,1); } 
+</script>
+<!-- //custom-theme -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!-- Owl-carousel-CSS --><link href="css/owl.carousel.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- font-awesome-icons -->
+<link href="css/font-awesome.css" rel="stylesheet"/> 
+<!-- //font-awesome-icons -->
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,900" rel="stylesheet"/>
+<link href="dist/summernote.css" rel="stylesheet"/>
+</head>
+	
+<body>
+<!-- banner -->
+<!-- /contact -->	
+<div class="inner_main_agile_section">
+	<div class="container">
+			<h3 class="w3l_header w3_agileits_header"> Post Events</h3>
+			 <div class="contact-form agile_inner_grids">
+				<form>
+					<div class="fields-grid">
+						
+						<div class="styled-input agile-styled-input-top">
+							<div id="summernote"><p>Hello Mapping Joureys !</p></div>
+						</div>
+						<div class="styled-input">
+							<input type="text" name="nameofevent" required="" id="nameofevent"/>
+							<label>Name of Event</label>
+							<span></span>
+						</div>
+						
+						<div class="styled-input">
+							<input type="text" name="Email" required="" id="date"/> 
+							<label>Date</label>
+							<span></span>
+						</div> 
+						<div class="styled-input">
+							<input type="text" name="url" id="url"/>
+							<span></span>
+						</div> 
+						
+						<div class="styled-input agile-styled-input-top">
+							<input type="text" name="amount" id="amount"/> 
+							<label>Amount</label>
+							<span></span>
+						</div>
+						
+						<div class="clearfix"> </div>
+					</div>
+					 
+					<input type="submit" id="submit" value="SEND"/>
+				</form>
+			</div>
+    </div>
+</div>
+	<div class="footer">
+	</div>
+<script type="text/javascript" src="js/jquery.2.1.4.min.js"></script>
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+<!-- for bootstrap working -->
+	<script src="js/bootstrap.js"></script>
+<!-- //for bootstrap working -->
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			});
+	</script>
+	<script src="dist/summernote.js"></script>
+	<script src="js/admin.js"></script>
+	<script>
+	    $(document).ready(function() {
+	        $('#summernote').summernote({
+			height: 300,                 // set editor height
+			minHeight: null,             // set minimum height of editor
+			maxHeight: null,             // set maximum height of editor
+			focus: true                  // set focus to editable area after initializing summe
+			});
+	    });
+	    
+	    $("#submit").click(function (event) {
+	        // event.preventDefault();
+	         fire_ajax_submit();
+	     });
+  </script>
+</body>
+</html>

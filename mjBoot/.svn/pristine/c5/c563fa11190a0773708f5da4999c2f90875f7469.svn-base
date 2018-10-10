@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Mapping Journeys</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="icon" type="image/png" href="images/mjlogo.png"></link>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Mapping Journeys,Treks near mumbai, Waterfall rappeling, mj, 
+	Travel near mumbai, treks near pune" />
+<script type="application/x-javascript"> 
+addEventListener("load", function() { 
+	setTimeout(hideURLbar, 0);
+	}, false);
+function hideURLbar(){
+	window.scrollTo(0,1);
+	}
+		</script>
+<!-- //custom-theme -->
+
+<!-- <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script> -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/JiSlider.css" rel="stylesheet"/> 
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+<link href="css/owl.carousel.css" rel="stylesheet"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/font-awesome.css" rel="stylesheet"/> 
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700,900" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet"/> 
+<script type="text/javascript" src="js/jquery.min.js"></script>
+ <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "2aee939e-b929-4625-b5a8-f7712ead13f4",
+      autoRegister: false, /* Set to true to automatically prompt visitors */
+      notifyButton: {
+          enable: true /* Set to false to hide */
+      }
+    }]);
+  </script>
+</head>
+<body>
+<!-- banner -->
+		<!-- FB script &38#  -->
+		<div id="fb-root"></div>
+		
+			<script th:inline="javascript">
+			/*<![CDATA[*/
+			(function(d, s, id) {
+			var url = /*[[ @{//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10}]]*/ ;
+			console.log(url);
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  //js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version='v2.10'";
+			  js.src = url;
+			  fjs.parentNode.insertBefore(js, fjs);
+			}
+			(document, 'script', 'facebook-jssdk'));
+			 /*]]>*/
+			</script>
+<div id="container">
+<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+		<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header" id="modalHeader">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+				</div>
+				<div class="modal-body" id="modelBody">
+					
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<div class="main_section_agile" id="navi">
+			<div class="agileits_w3layouts_banner_nav">
+				<nav class="navbar navbar-default">
+					<div class="navbar-header navbar-left">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<img src="images/mjlogo.png" style="display: inline !important;margin-top: -20%;margin-left: -50%;"></img>
+					</div>
+					<!-- <ul class="agile_forms">
+						<li><a class="active" href="#" data-toggle="modal" data-target="#myModal2"><i class="fa fa-sign-in" aria-hidden="true"></i> Sign In</a> </li>
+						<li><a href="#" data-toggle="modal" data-target="#myModal3"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Sign Up</a> </li>
+					</ul> -->
+					<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+						<nav class="link-effect-2" id="link-effect-2">
+							<ul class="nav navbar-nav">
+								<li class="active"><a href="/" class="effect-3">Home</a></li>
+								<li><a href="/fixeddepartures" class="effect-3">Fixed Departures</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Customized<b class="caret"></b></a>
+									<ul class="dropdown-menu agile_short_dropdown">
+										<li><a href="/">Plan your own travel</a></li>
+										<li><a href="/">School and College Excursions</a></li>
+										<li><a href="/">Corporate Outbounds</a></li>
+									</ul>
+								</li>
+								<li><a href="/" class="effect-3">Blog</a></li>
+								<li><a href="about.html" class="effect-3">About</a></li>
+								<li><a href="mail" class="effect-3">Contact us</a></li>
+							</ul>
+						</nav>
+	
+					</div>
+				</nav>	
+			<div class="clearfix"> </div> 
+		</div>
+	</div>
+
+<!-- banner -->
+	<div class="banner-silder" id="infoi">
+		<div id="JiSlider" class="jislider">
+			<ul>
+				<li>
+					<div class="w3layouts-banner-top">
+						<div class="container">
+							<div class="agileits-banner-info">
+								<!--  -->
+								<h3>Bhandardara Campsite</h3>
+								 <!-- <p>Grow Your Business</p> -->
+								<div class="more">
+									<a href="http://mappingjourneys.blogspot.in/2018/01/bhandardara-camping.html" class="hvr-shutter-in-vertical" data-toggle="modal" data-target="http://mappingjourneys.blogspot.in/2018/01/bhandardara-camping.html">Book a Camping Experience<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+								</div>
+							</div>	
+						</div>
+					</div>
+				</li>
+				<li>
+						<div class="w3layouts-banner-top w3layouts-banner-top1">
+							<div class="container">
+								<div class="agileits-banner-info">
+								
+									<h3>Moksha Mantra Camp Site</h3>
+									 <!-- <p>Planning Your Dream</p> -->
+										<div class="more">
+									<a href="#" class="hvr-shutter-in-vertical" data-toggle="modal" data-target="#myModal">Book a Camping Experience<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+									</div>
+								</div>	
+							</div>
+						</div>
+				</li>
+				<li>
+						<div class="w3layouts-banner-top w3layouts-banner-top2">
+							<div class="container">
+								<div class="agileits-banner-info">
+								
+									<h3>Pawana Dam Campsite</h3>
+									 <!-- <p>Grow Your Business.</p> -->
+									<div class="more">
+									<a href="http://mappingjourneys.blogspot.in/2017/11/pawna-lakeside-camping-lonavala.html" class="hvr-shutter-in-vertical" data-toggle="modal" data-target="http://mappingjourneys.blogspot.in/2017/11/pawna-lakeside-camping-lonavala.html">Book a Camping Experience<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+									</div>
+								</div>	
+								
+							</div>
+						</div>
+					</li>
+
+			</ul>
+		</div>
+      </div>
+</div>
+<!-- //banner -->
+<!-- Modal1 -->
+	
+	<!-- //Modal2 -->	
+<!-- bootstrap-pop-up -->
+
+<!-- //about -->
+
+	<div class="events">
+		<ul id="flexiselDemo1">	
+			<!-- <li id="dynamicList">
+				<div class="w3layouts_event_grid">
+					<div class="w3_agile_event_grid1">
+						<img src="images/1.jpg" alt=" " class="img-responsive" />
+						<div class="w3_agile_event_grid1_pos">
+							<p>23 March 2017</p>
+						</div>
+						<div class="agile_event_grid1_pos">
+							<ul>
+								<li><a href="#"><i class="fa fa-inr" aria-hidden="true"></i>18</a></li>
+								<li><a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>21</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="agileits_w3layouts_event_grid1">
+						<h5><a href="#" data-toggle="modal" data-target="#myModal">Learn Basics</a></h5>
+						<p>viverra ipsum ac, convallis mauris. Sed quis congue turpis, cursus rhoncus nibh.</p>
+					</div>
+				</div>
+			</li> -->
+		</ul>
+	</div>
+<!-- //banner-bottom -->
+<!-- //services -->
+<!-- stats -->
+	<div class="stats" id="stats">
+	    <div class="container"> 
+			<div class="inner_w3l_agile_grids">
+		<div class="col-md-4 w3layouts_stats_left w3_counter_grid">
+		   	<i class="fa fa-map-o" aria-hidden="true"></i>
+			<p class="counter">75</p>
+			<h3>Events</h3>
+		</div>
+		<div class="col-md-4 w3layouts_stats_left w3_counter_grid1">
+		    <i class="fa fa-user-circle" aria-hidden="true"></i>
+			<p class="counter">500+</p>
+			<h3>Members</h3>
+		</div>
+		<div class="col-md-4 w3layouts_stats_left w3_counter_grid2">
+		<i class="fa fa-trophy" aria-hidden="true"></i>
+			<p class="counter">50+</p>
+			<h3>Places</h3>
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+   </div>	
+</div>
+<!-- //stats -->
+<!-- footer -->
+	<div class="footer">
+		<div class="container">
+		<div class="w3_agile_footer_grids">
+			<div class="col-md-4 w3_agile_footer_grid">
+					<h3>Testimonials</h3>
+				</div>
+			<div class="clearfix"> </div>
+		</div>
+			<div class="w3_agile_footer_grids">
+				<div class="col-md-4 w3_agile_footer_grid">
+					<div class="item">
+				        <img src="images/Aditi.jpg" alt="Los Angeles" style="width:70%;border-radius: 50%;margin-left: 20%;"/>
+				        <div class="carousel-caption">
+				          <p>A trip with Mapping Journeys is filled with lots of laughter and exciting moments, adrenaline rush at it's peak!
+							They always have your back during the treks, rappelling or any other activity through out.
+								Keep up the awesome work that you guys are doing! Highly recommended to take trips with them! You'll love it. I can assure you that.
+							Have gone with them twice and looking forward to many more adventures!</p>
+							<h4>- Aditi Kapoor Mall</h4>
+				        </div>
+				      </div>
+				</div>
+				<div class="col-md-4 w3_agile_footer_grid">
+					 <div class="item">
+				        <img src="images/male.jpg" alt="Chicago" style="width:70%;border-radius: 50%;margin-left: 20%;"/>
+				        <div class="carousel-caption">
+				          <p>One of the best organisers I've come across. 
+				          We were a part of Hampi trip, and it was one of the most memorable trips I've had.
+				           Veeral and Sneha knew everything around this place and they took us to the best places out there. 
+				           These guys are very loving and helpful people and I'm waiting to join them for my next adventurous trip.
+				            Thanks Mapping Journeys, you are awesome :)</p>
+				             <h4>- Nimish Prabhu</h4>
+				        </div>
+				      </div>
+				</div>
+				<div class="col-md-4 w3_agile_footer_grid">
+					<div class="item">
+				        <img src="images/female.jpg" alt="New York" style="width:70%;border-radius: 50%;margin-left: 20%;"/>
+				        <div class="carousel-caption">
+				          <p>They are an excellent team. 
+				          Young guys, full of adrenaline and a wish to explore ! I had a great time with them.
+				           One feels absolutely comfortable and welcome with them.
+				           Great experience! Would definitely recommend their trips to everyone I know :)</p>
+				         <h4>- Mansi Ratnakar</h4>
+				        </div>
+				      </div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>		
+		
+			<div class="w3_agile_footer_grids">
+				<div class="col-md-4 w3_agile_footer_grid">
+					<h3>Latest Posts</h3>
+					<!-- Facebook posts  -->
+					<div class="fb-page" data-href="https://www.facebook.com/pg/mappingjourneys/" data-tabs="timeline" data-width="400" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true">
+						<blockquote cite="https://www.facebook.com/pg/mappingjourneys/" class="fb-xfbml-parse-ignore">
+							<a href="https://www.facebook.com/pg/mappingjourneys/">Mapping Journeys</a>
+						</blockquote>
+					</div>
+				</div>
+				<div class="col-md-8 w3_agile_footer_grid">
+					<div class="col-md-4 w3ls_footer_grid_left">
+							<div class="wthree_footer_grid_left">
+								<i class="fa fa-map-marker" aria-hidden="true"></i>
+							</div>
+							<p>EN-235 9, Buddha Nagar, Malwani Colony, Marve X Road, <span>Malad west, Mumbai 400095.</span></p>
+						</div>
+					<div class="col-md-4 w3ls_footer_grid_left">
+						<div class="wthree_footer_grid_left">
+							<i class="fa fa-phone" aria-hidden="true"></i>
+						</div>
+						<p>+91 98676 97306 <span>+91 7900168788</span></p>
+					</div>
+					
+					<div class="col-md-4 w3ls_footer_grid_left">
+						<div class="wthree_footer_grid_left">
+							<i class="fa fa-envelope-o" aria-hidden="true"></i>
+						</div>
+						<p><a href="mailto:info@example.com">travel@mappingjourneys.com</a></p>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			
+			<div class="agileinfo_copyright">
+				<p>© 2017 MappingJourneys. All Rights Reserved | Design by <a href="https://w3layouts.com/">FlexGrow.in</a></p>
+			</div>
+		</div>
+	</div>
+<!-- //footer -->
+<!-- //js -->
+<script src="js/JiSlider.js"></script>
+<script>
+$(window).load(function () {
+	$('#JiSlider').JiSlider({color: '#fff', start: 3, reverse: true}).addClass('ff')
+})
+</script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script type="text/javascript">
+$(function(){
+  $("#bars li .bar").each(function(key, bar){
+    var percentage = $(this).data('percentage');
+
+    $(this).animate({
+      'height':percentage+'%'
+    }, 1000);
+  })
+})
+</script>
+ <script src="js/owl.carousel.js"></script>
+      <script>
+    $(document).ready(function() {
+      $("#owl-demo2").owlCarousel({
+        items : 1,
+        lazyLoad : false,
+        autoPlay : true,
+        navigation : false,
+        navigationText :  false,
+        pagination : true,
+      });
+      
+    });
+  </script>
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+	<script src="js/bootstrap.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$().UItoTop({ easingType: 'easeOutQuart' });
+		});
+		$(document).ready(function() {
+			$(document).on('click', '.morelink', function (event) {
+			    // your function here
+			    var id = $(this).attr('id');
+				getPerticularEvent(id);
+			});
+		});
+
+		function getPerticularEvent(id) {
+			$.ajax({
+				type : "POST",
+				contentType : "application/json",
+				url : "/getEventDetails/"+id,
+				data : "",
+				dataType : 'json',
+				timeout : 100000,
+				success : function(data) {
+					$('#modelBody').html(data.description);
+					$('#modalHeader').html(data.name);
+					$('#myModal2').modal('show'); 
+				},
+				error : function(e) {
+				},
+				done : function(e) {
+				}
+			});
+		}
+	</script>
+<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

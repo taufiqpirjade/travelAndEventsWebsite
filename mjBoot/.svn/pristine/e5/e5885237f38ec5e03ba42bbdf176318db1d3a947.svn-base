@@ -1,0 +1,61 @@
+<!-- footer -->
+	<div class="footer" layout:fragment="footer">
+		<div class="container">
+			<div class="w3_agile_footer_grids">
+				<div class="col-md-4 w3_agile_footer_grid">
+					<h3>Latest Posts</h3>
+					<!-- Facebook posts  -->
+					<div class="fb-page" data-href="https://www.facebook.com/pg/mappingjourneys/" data-tabs="timeline" data-width="400" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/pg/mappingjourneys/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pg/mappingjourneys/">Mapping Journeys</a></blockquote></div>
+				</div>
+				<div class="col-md-4 w3_agile_footer_grid">
+					<h3>Navigation</h3>
+					<ul class="agileits_w3layouts_footer_grid_list">
+						<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="index.html">Home</a></li>
+						<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="services.html">Fixed Departures</a></li>
+						<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="portfolio.html">Customized</a></li>
+						<li><i class="fa fa-long-arrow-right" aria-hidden="true"></i><a href="mail.html">Mail Us</a></li>
+					</ul>
+				</div>
+				<div class="col-md-4 w3_agile_footer_grid">
+					<h3>Instagram Posts</h3>
+					<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/40024c962b5258cdab98ace72a317a83.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		<!-- 	<div class="w3_newsletter_footer_grids">
+				<div class="w3_newsletter_footer_grid_left">
+					<form action="#" method="post">
+						<input type="email" name="Email" placeholder="Enter Your Email...." required=""/>
+						<input type="submit" value="SEND"/>
+					</form>
+				</div>
+			</div> -->
+			<div class="w3ls_address_mail_footer_grids">
+				<div class="col-md-4 w3ls_footer_grid_left">
+					<div class="wthree_footer_grid_left">
+						<i class="fa fa-map-marker" aria-hidden="true"></i>
+					</div>
+					<p>EN-235 9, Buddha Nagar, Malwani Colony, Marve X Road, <span>Malad west, Mumbai 400095.</span></p>
+				</div>
+				<div class="col-md-4 w3ls_footer_grid_left">
+					<div class="wthree_footer_grid_left">
+						<i class="fa fa-phone" aria-hidden="true"></i>
+					</div>
+					<p>+91 98676 97306 <span>+91 7900168788</span></p>
+				</div>
+				<div class="col-md-4 w3ls_footer_grid_left">
+					<div class="wthree_footer_grid_left">
+						<i class="fa fa-envelope-o" aria-hidden="true"></i>
+					</div>
+					<p><a href="mailto:info@example.com">travel@mappingjourneys.com</a></p>
+						<!-- <span><a href="mailto:info@example.com">info@example2.com</a></span></p> -->
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="agileinfo_copyright">
+				<p>© 2017 MappingJourneys. All Rights Reserved | Design by <a href="https://w3layouts.com/">FlexGrow.in</a></p>
+			</div>
+		</div>
+	</div>
+<!-- //footer -->
